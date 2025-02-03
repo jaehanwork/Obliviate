@@ -1,6 +1,6 @@
 # Obliviate
 
-Implementation of [*Obliviate*: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm](https://openreview.net/pdf?id=8xBMLAOZxq), 2025 NAACL (Findings)
+Implementation of [*Obliviate*: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm](https://openreview.net/pdf?id=8xBMLAOZxq), NAACL 2025 (Findings)
 
 NOTE: Our implementation in the `./transformers` directory is based on `adapter-transformers` v.3.2.1 (https://github.com/adapter-hub/adapter-transformers-legacy).
 
